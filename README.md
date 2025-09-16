@@ -1,4 +1,4 @@
-#RETAIL PERFORMANCE DASHBOARD
+# RETAIL PERFORMANCE DASHBOARD
 
 ## Project Overview
 
@@ -24,4 +24,5 @@ Dataset Used- [Download the Excel File](./Sales_Data.xlsx)
 3.** Customer Segment Insights :** Corporate and Home Office segments can grow with bulk discounts, partnerships or loyalty programs.
 4.** Monthly Sales & Profit Trend Insights :** Planning for inventory and staffing around peak seasons is crucial to maximize sales and avoid stockouts.
 5. **Category Insights :** Technology drives the highest sales and profit. Furniture and Office Supplies should be checked for cost efficiency.
+
 
